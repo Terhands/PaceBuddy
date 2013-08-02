@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaceBuddy</string>
+	
+    <!-- Home screen text -->
+    <string name="home_header">Home</string>
+	<string name="app_title"><b>PACE BUDDY</b></string>
+	<string name="select_playlist_caption">Select Playlist</string>
+	<string name="set_pace_caption">Set Pace</string>
+	<string name="start_caption">Start!</string>
+	<string name="exit_caption">Exit</string>
+	
+	<!-- Home screen menu -->
+	<string name="action_settings">Settings</string>
+	
+	<!-- Playlist screen text -->
+	<string name="playlist_header">Playlists</string>
+	
+	<!-- Playlist screen menu -->
+	<string name="action_new_playlist">New Playlist</string>
+	
+    
+</resources>
